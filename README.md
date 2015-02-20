@@ -1,6 +1,8 @@
 # BLACK-DIAMOND
 
-Amplifier build on a class A design.
+Amplifier build on a class A design. No fancy or excotic transistors are used. Standard transistors like BC550(BC850) or BC847 will do the amplification.
+
+A small microcontroller [MSP430] (http://www.ti.com) will do the survaillance of voltage, current and errors. Longtime testing and logging will be done on an external SD-CARD.
 
 Specification
 -------------
