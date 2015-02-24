@@ -12,8 +12,14 @@ Specification
 * Minimum Load Impedance   2Ohm
 
 ## Schematics
+### Preamp
+Will be provided as soon as possible.
 
-Will be provided as soon as possible
+### Poweramplifier
+Will be provided as soon as possible.
+
+### AC/DC Powersupply
+Will be provided as soon as possible.
 
 ## PCB
 
