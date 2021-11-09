@@ -4,7 +4,7 @@ Amplifier build on a class A design. No fancy or excotic transistors are used. S
 
 A small microcontroller [MSP430] (http://www.ti.com) will do the survaillance of voltage, current and errors. Longtime testing and logging will be done on an external SD-CARD.
 
-At work I usually work with CAD tools from Mentor or Cadence building PCBs up to 20 Layers. As this project should be built with software everybody is able to get for free I decided to go with [KiCad] (http://kicad-pcb.org). I consider this to be quite a challenge. Let's see how far we get.
+At work I usually work with CAD tools from Mentor or Cadence building PCBs up to 20 Layers. As this project should be built with software everybody is able to get for free I decided to go with [KiCad] (http://kicad.org). I consider this to be quite a challenge. Let's see how far we get.
 
 Specification
 -------------
